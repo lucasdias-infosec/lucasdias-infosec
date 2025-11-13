@@ -24,4 +24,4 @@ Além dos projetos no GitHub, também ofereço **aulas online de segurança da i
 
 ---
 
-> “Proteger sistemas é proteger pessoas.”
+> 💡 “Proteger sistemas é proteger pessoas.” 💡
