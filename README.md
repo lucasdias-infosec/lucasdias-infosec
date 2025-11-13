@@ -4,16 +4,6 @@
 
 ---
 
-## Sobre mim
-Sou apaixonado por **cibersegurança defensiva** e tenho uma **base teórica sólida**, buscando sempre aplicar o conhecimento em projetos práticos. Meu objetivo é construir um **portfólio técnico** que reflita minha evolução na área.  
-
-💡 **Principais características:**
-- Disciplinado, analítico e lógico  
-- Aberto a **feedbacks** e aprendizado contínuo  
-- Interesse em **trabalho em equipe** e colaboração  
-
----
-
 <p align="left">
     <a href="https://github.com/lucasdias-infosec?tab=repositories&sort=stargazers">
         <img 
@@ -28,22 +18,17 @@ Sou apaixonado por **cibersegurança defensiva** e tenho uma **base teórica só
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/lucasdias-infosec?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
-    <a href="www.linkedin.com/in/lucas-dias-ramos-a435a0369">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005983"
-        />
-    </a>
-    <a href="mailto:lucas.dias.ramos.pro@gmail.com">
-        <img 
-            alt="E-mail" 
-            title="Enviar e-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121"
-        />
-    </a>
-</p>
+    </p>
+
+---
+
+## Sobre mim
+Sou apaixonado por **cibersegurança defensiva** e tenho uma **base teórica sólida**, buscando sempre aplicar o conhecimento em projetos práticos. Meu objetivo é construir um **portfólio técnico** que reflita minha evolução na área.  
+
+💡 **Principais características:**
+- Disciplinado, analítico e lógico  
+- Aberto a **feedbacks** e aprendizado contínuo  
+- Interesse em **trabalho em equipe** e colaboração  
 
 ---
 
