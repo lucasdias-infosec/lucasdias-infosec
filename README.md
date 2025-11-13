@@ -22,12 +22,6 @@
 
 ---
 
-## Contato
-📫 LinkedIn: www.linkedin.com/in/lucas-dias-ramos-a435a0369  
-📧 Email: lucas.dias.ramos.pro@gmail.com 
-
----
-
 ## Sobre mim
 Sou apaixonado por **cibersegurança defensiva** e tenho uma **base teórica sólida**, buscando sempre aplicar o conhecimento em projetos práticos. Meu objetivo é construir um **portfólio técnico** que reflita minha evolução na área.  
 
