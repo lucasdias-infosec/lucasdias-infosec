@@ -23,7 +23,7 @@
 ---
 
 ## Contato
-📫 [LinkedIn](www.linkedin.com/in/lucas-dias-ramos-a435a0369)  
+📫 LinkedIn: www.linkedin.com/in/lucas-dias-ramos-a435a0369  
 📧 Email: lucas.dias.ramos.pro@gmail.com 
 
 ---
