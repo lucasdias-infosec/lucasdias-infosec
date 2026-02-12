@@ -19,8 +19,7 @@ Aqui no GitHub você encontrará meus projetos voltados para **Segurança da Inf
 
 ---
 
-## Projetos paralelos
-Além dos projetos no GitHub, também ofereço **aulas online de segurança da informação**, compartilhando conhecimento e experiências com a comunidade.  
+## Projetos paralelos  
 
 ---
 
