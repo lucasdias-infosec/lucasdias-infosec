@@ -16,10 +16,12 @@ Sou apaixonado por **cibersegurança defensiva** e tenho uma **base teórica só
 
 ## Projetos
 Aqui no GitHub você encontrará meus projetos voltados para **Segurança da Informação**, explorando ferramentas, análises e práticas de **Blue Team**.  
-- Construção de um Laboratório Blue Time: [Blue-Time-Lab](https://github.com/lucasdias-infosec/Blue-Time-Lab)
+- Construção de um Laboratório Blue Time: [Blue-Time-Lab](https://github.com/lucasdias-infosec/Blue-Time-Lab).
 ---
 
-## Projetos paralelos  
+## Projetos paralelos
+- 📰CyberResumo (LinkdIn): Resumo Semanal da Principais Noticias de Segurança da Informação com foco em Impacto Real.
+- 👁️Um Olhar Sobre Segurança Da Informação (LinkedIn): Análise Semanal de uma Notícia Relevante da Área de SI.
 ---
 
 > 💡 “Proteger sistemas é proteger pessoas.” 💡
