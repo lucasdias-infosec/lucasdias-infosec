@@ -16,7 +16,9 @@ I am passionate about **defensive cybersecurity** and possess a **solid theoreti
 ---
 
 ## Portfolio
-[Here](https://lucasdias-infosec.github.io/infosec-portfolio/) you will find my projects focused on **Information Security**, exploring **Blue Team** tools, analysis, and best practices.
+Here you will find my projects focused on **Information Security**, exploring **Blue Team** tools, analysis, and best practices.
+
+- 🛡️ [Blue Team Lab (pt-BR)](../pt-br/blue-team-lab-pt-br/introducao.md)
 
 ---
 
@@ -46,7 +48,9 @@ Sou apaixonado por **cibersegurança defensiva** e tenho uma **base teórica só
 ---
 
 ## Projetos
-[Aqui](https://lucasdias-infosec.github.io/infosec-portfolio/) você encontrará meus projetos voltados para **Segurança da Informação**, explorando ferramentas, análises e práticas de **Blue Team**.  
+Aqui você encontrará meus projetos voltados para **Segurança da Informação**, explorando ferramentas, análises e práticas de **Blue Team**.
+
+- 🛡️ [Blue Time Lab (pt-BR)](blue-team-lab-pt-br/introducao.md)
 
 ---
 
