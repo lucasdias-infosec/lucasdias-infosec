@@ -1,5 +1,4 @@
-# en-US
-# 👨🏻‍💻 Lucas Dias
+# 👨🏻‍💻 Lucas Dias (en-US)
 
 🎓 **Computer Science** Student | Focused on **Information Security (Blue Team)** 
 
@@ -30,8 +29,7 @@ I am passionate about **defensive cybersecurity** and possess a **solid theoreti
 > 💡 "Protecting systems is protecting people." 💡
 
 
-#pt-BR
-# 👩🏻‍💻 Lucas Dias
+# 👩🏻‍💻 Lucas Dias (pt-BR)
 
 🎓 Estudante de **Ciência da Computação** | Foco em **Segurança da Informação (Blue Team)**  
 
