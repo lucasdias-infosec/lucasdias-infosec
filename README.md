@@ -18,7 +18,7 @@ I am passionate about **defensive cybersecurity** and possess a **solid theoreti
 ## Portfolio
 Here you will find my projects focused on **Information Security**, exploring **Blue Team** tools, analysis, and best practices.
 
-- 🛡️ [Blue Team Lab (pt-BR)](../pt-br/blue-team-lab-pt-br/introducao.md)
+- 🛡️ [Blue Team Lab](infosec-portfolio/docs/en-us/blue-team-lab/introduction.md)
 
 ---
 
