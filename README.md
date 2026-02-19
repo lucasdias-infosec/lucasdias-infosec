@@ -24,7 +24,7 @@ Here you will find my projects focused on **Information Security**, exploring **
 
 ## Side Projects
 - 📰 **CyberResumo (LinkedIn):** A weekly digest of the top Information Security news, focusing on real-world impact.
-- 👁️ **An Eye on InfoSec (LinkedIn):** Weekly in-depth analysis of a relevant topic in the Cybersecurity field.
+- 👁️ **CyberSummary (LinkedIn):** Weekly in-depth analysis of a relevant topic in the Cybersecurity field.
 
 ---
 
@@ -55,8 +55,8 @@ Aqui você encontrará meus projetos voltados para **Segurança da Informação*
 ---
 
 ## Projetos paralelos
-- 📰CyberResumo (LinkdIn): Resumo Semanal da Principais Noticias de Segurança da Informação com foco em Impacto Real.
-- 👁️Um Olhar Sobre Segurança Da Informação (LinkedIn): Análise Semanal de uma Notícia Relevante da Área de SI.
+- 📰 **CyberResumo (LinkdIn)**: Resumo Semanal da Principais Noticias de Segurança da Informação com foco em Impacto Real.
+- 👁️ **Um Olhar Sobre Segurança Da Informação (LinkedIn)**: Análise Semanal de uma Notícia Relevante da Área de SI.
 
 ---
 
